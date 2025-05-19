@@ -15,7 +15,7 @@ Objetivo: criar um resumo executivo de um estudo fictício utilizando IA.
   * Use uma ferramenta como ChatGPT®, Quillbot® ou JasperAI® para criar o resumo.
   * Limite o texto a 100 palavras, incluindo contexto, principais dados e recomendações.
 
-Entrega:
+* Entrega:
 Um resumo preciso e bem estruturado com insights relevantes.
 18 No mundo corporativo, player é usado para se referir a empresas que são relevantes em um determinado segmento ou setor da economia.
 * Reflexão
