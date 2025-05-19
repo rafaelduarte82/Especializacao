@@ -18,7 +18,7 @@ Um gráfico de setores para mostrar a proporção das despesas fixas e variávei
 Ferramentas sugeridas: utilize ChatGPT®, Copilot® ou SheetAI® para gerar os resultados.
 
 4.1.6 Reflexão
-Quais foram as dificuldades encontradas ao criar a planilha? No GPT acabaram meis tokens. no 
+Quais foram as dificuldades encontradas ao criar a planilha? No GPT acabaram meis tokens. no Google Gemini
 Como a IA facilitou o processo?
 Que outras funcionalidades você incluiria na planilha para melhor análi
 
