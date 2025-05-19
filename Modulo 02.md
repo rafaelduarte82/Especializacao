@@ -66,9 +66,7 @@ Transição: Close-up no olho do “predador”… que pisca lentamente.
 Cena: Corte brusco. Um AVESTRUZ correndo desajeitadamente no campo. Música épica é substituída por xilofone cômico.
 
 Narração (tom debochado):
-
 "Avestruzes. Porque nem todo dinossauro quer te comer. Alguns só querem botar ovos gigantes e gerar lucro."
-
 [20s – 30s] — Chamada para investidores
 Cena: Um avestruz de óculos escuros passa em câmera lenta. Infográficos com gráficos subindo e símbolos de cifrão pipocam na tela.
 Narração:
