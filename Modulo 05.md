@@ -65,7 +65,7 @@ Objetivo: criar um resumo executivo de um estudo fictício utilizando IA.
       * Carlos: negociar com fornecedores.
       * Ana: criar a agenda do evento.
       * Pedro: organizar transporte e logística.
-Instruções:
+      * Instruções:
 Use uma ferramenta como ChatGPT® ou Fireflies.AI® para gerar a ata da reunião.
 Certifique-se de incluir:
 Informações básicas.
