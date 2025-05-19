@@ -51,7 +51,7 @@ Relatório final:
 Deve incluir gráficos, tabelas e análises textuais.
 Personalize o layout para apresentação em uma reunião.
 4.2.5 Reflexão
-Como a geração automatizada de relatórios impacta a eficiência do trabalho?
+Como a geração automatizada de relatórios impacta a eficiência do trabalho? 
 Quais melhorias você faria no prompt ou na estrutura do relatório?
 Que outras informações poderiam ser adicionadas ao relatório para agregar mais valor?
 
