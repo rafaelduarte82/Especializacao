@@ -80,5 +80,5 @@ Aderência a briefing técnico	Baixa	Alta
 ✅ Conclusão:
 O Prompt 2 gera ideias mais alinhadas às características do produto, pois direciona a criatividade para os diferenciais técnicos específicos (câmera e bateria), aumentando a eficácia do comercial como peça de marketing funcional.
 
-Concordo com a análise do gpt
+Concordo com a análise do 
 
