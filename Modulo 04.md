@@ -28,7 +28,6 @@ Que outras funcionalidades você incluiria na planilha para melhor análise. cal
 4.2.4 Exercício de Fixação
 Objetivo: criar um relatório financeiro detalhado usando dados de uma planilha fictícia.
 Tarefa:
-
 Forneça os seguintes dados em uma planilha:
 Receita mensal:
 Janeiro: R$100.000
