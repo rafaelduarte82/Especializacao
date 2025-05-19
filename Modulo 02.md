@@ -14,7 +14,6 @@ Tom e estilo: ajuste o tom e o estilo da carta de acordo com o destinatário e o
 Prompt: "Imagine que você é um roteirista de cinema. Crie um roteiro detalhado para um vídeo curto (máximo 90 s) sobre fazendas de dinossauros. O vídeo deve incluir transições misteriosas, insinuações dos dinossauros, e no final mostrar que estava falando de dinossauros aviários, mais especificamente, avestruzes. Após apresentar o bicho, se dirigir aos investidores do mercado de criação de avestrus, indicando as ventagens e tendências de mercado. Manter um tom debochado, pseudo-informativo. "
 
 
-
 2.3.4 Exercício 4: Análise de Sentimentos em Reviews
 Objetivo: utilizar um modelo de linguagem para analisar o sentimento expresso em reviews de um produto/serviço.
 Prompt: "Analise o sentimento expresso nos seguintes reviews de computadores de ba ixo custo para a clace C e D. Classifique cada review como positivo, negativo ou neutro. Justifique sua classificação com base nas palavras e expressões utilizadas."
