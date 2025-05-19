@@ -19,7 +19,7 @@ Ferramentas sugeridas: utilize ChatGPT®, Copilot® ou SheetAI® para gerar os r
 
 4.1.6 Reflexão
 Quais foram as dificuldades encontradas ao criar a planilha? No GPT ele criou graficos estátios. ao pedir para criar ugraficos estátiosacabaram meus tokens. no Google Gemini, ele nao cria 
-de Como a IA facilitou o processo?
+de xlsx Como a IA facilitou o processo?
 Que outras funcionalidades você incluiria na planilha para melhor análi
 
 
