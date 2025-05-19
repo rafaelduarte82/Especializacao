@@ -28,7 +28,7 @@ Objetivo: criar um resumo executivo de um estudo fictício utilizando IA.
 5.2.6 Exercício Prático
 * Objetivo: criar e-mails automatizados para dois contextos profissionais distintos.
 
-Tarefa:
+* Tarefa:
 
 Contexto 1: escreva um e-mail formal para o chefe, informando sobre o andamento de um projeto, destacando resultados e sugerindo próximos passos.
 Informações:
