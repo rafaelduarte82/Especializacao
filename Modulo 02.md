@@ -20,6 +20,8 @@ Dicas:
 Formato: especifique o formato do roteiro (cenas, diálogos, descrições);
 Público-alvo: defina o público-alvo do vídeo para adaptar a linguagem e o estilo;
 Detalhes: quanto mais detalhes você fornecer no prompt, mais completo será o roteiro gerado.
+
+
 2.3.4 Exercício 4: Análise de Sentimentos em Reviews
 Objetivo: utilizar um modelo de linguagem para analisar o sentimento expresso em reviews de um produto/serviço.
 Prompt: "Analise o sentimento expresso nos seguintes reviews de [produto/serviço]: [lista de reviews]. Classifique cada review como positivo, negativo ou neutro. Justifique sua classificação com base nas palavras e expressões utilizadas."
