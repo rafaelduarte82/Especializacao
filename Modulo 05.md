@@ -29,8 +29,8 @@ Objetivo: criar um resumo executivo de um estudo fictício utilizando IA.
 * Objetivo: criar e-mails automatizados para dois contextos profissionais distintos.
 
 * Tarefa:
-  * Contexto 1: escreva um e-mail formal para o chefe, informando sobre o andamento de um projeto, destacando resultados e sugerindo próximos passos.
-Informações:
+  *   * Contexto 1: escreva um e-mail formal para o chefe, informando sobre o andamento de um projeto, destacando resultados e sugerindo próximos passos.
+    * Informações:
 Título do projeto: Lançamento de Campanha Publicitária.
 Status: 80% concluído.
 Ponto de destaque: aumento de 20% no engajamento nas redes sociais.
