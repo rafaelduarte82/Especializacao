@@ -26,6 +26,7 @@ Ferramentas sugeridas: utilize ChatGPT®, Copilot® ou SheetAI® para gerar os r
 
 
 
+
 4.2.4 Exercício de Fixação
 Objetivo: criar um relatório financeiro detalhado usando dados de uma planilha fictícia.
 
