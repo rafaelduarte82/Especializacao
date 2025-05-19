@@ -69,6 +69,6 @@ Prompts:
 
 2) "Gere cinco ideias para um comercial de um smartphone, destacando sua câmera de alta resolução e bateria de longa duração."
 
-Resposta: ""
+Resposta: "Usei o proprio chatgpt para comparar as duas": ""
 
 
