@@ -22,7 +22,7 @@ Quais foram as dificuldades encontradas ao criar a planilha? No GPT ele criou gr
 Como a IA facilitou o processo? organizou os dados do texto em dados tabulares. Extraiu algumas informações a partir de calculos
 Que outras funcionalidades você incluiria na planilha para melhor análise. calculo de proje
 
-
+calculo de projeção 
 
 
 
