@@ -49,3 +49,7 @@ Entrega: apresente os dois e-mails gerados e analise se o tom e o conteúdo aten
 Como a IA ajudou a economizar tempo e garantir precisão na comunicação?
 Os e-mails gerados foram adequados aos contextos propostos?
 Que melhorias poderiam ser feitas para refinar as mensagens?
+
+
+
+
