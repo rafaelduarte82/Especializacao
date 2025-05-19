@@ -73,9 +73,7 @@ Narração (tom debochado):
 Cena: Um avestruz de óculos escuros passa em câmera lenta. Infográficos com gráficos subindo e símbolos de cifrão pipocam na tela.
 
 Narração:
-
 "Investir em avestruz é apostar na proteína do futuro. Baixo carbono, alta margem, e 100% paleochique."
-
 Texto na tela:
 🦖 “Dinossauros não foram extintos. Eles só abriram CNPJ.”
 📈 Entre já para o Jurassic Market™.
