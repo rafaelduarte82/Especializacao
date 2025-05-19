@@ -8,7 +8,7 @@ Objetivo: criar um resumo executivo de um estudo fictício utilizando IA.
         * Crescimento de 25% no mercado global em 2023.
         * Principais players18: Amazon®, Alibaba®, Mercado Livre®.
         * Fatores de crescimento: maior uso de dispositivos móveis e avanços logísticos.
-Desafios: alta concorrência e custos elevados de transporte.
+        * Desafios: alta concorrência e custos elevados de transporte.
 Recomendações: investir em tecnologias de última milha e parcerias estratégicas.
 
 * Instruções:
