@@ -3,7 +3,7 @@ Prompt: "Escreva um conto curto sobre um engenheiro de softwares que descobre um
 
 2.3.2 Exercício 2: a Carta Persuasiva
 Objetivo: gerar uma carta persuasiva para convencer alguém a [ação desejada].
-Prompt: "Escreva uma carta formal e persuasiva para um pós graduando de mestrado, com o objetivo de convencê-lo a [ação desejada]. Utilize argumentos convincentes e linguagem culta. A carta deve ter no máximo [número] palavras."
+Prompt: "Escreva uma carta formal e persuasiva para um pós graduando de mestrado, com o objetivo de convencê-lo a n. Utilize argumentos convincentes e linguagem culta. A carta deve ter no máximo [número] palavras."
 Dicas:
 Contexto: forneça contexto relevante sobre o destinatário e a ação desejada;
 Exemplos: inclua exemplos de cartas persuasivas para inspirar o modelo;
