@@ -12,7 +12,7 @@ Objetivo: criar um resumo executivo de um estudo fictício utilizando IA.
         * Recomendações: investir em tecnologias de última milha e parcerias estratégicas.
 
 * Instruções:
-Use uma ferramenta como ChatGPT®, Quillbot® ou JasperAI® para criar o resumo.
+* Use uma ferramenta como ChatGPT®, Quillbot® ou JasperAI® para criar o resumo.
 Limite o texto a 100 palavras, incluindo contexto, principais dados e recomendações.
 
 Entrega:
