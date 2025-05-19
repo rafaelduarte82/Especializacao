@@ -1,6 +1,5 @@
 2.3.1 Exercício 1: a História Inesperada
-Prompt: "Escreva um conto curto, de até 250 palavras, em capítulo único, sobre um engenheiro de softwares que descobre um portal mágico para um mundo habitado por duendes programadores backend go horse. O conto deve ter um tom sarcástico e explorar temas como superação e mudança de mentalidade.
-"
+Prompt: "Escreva um conto curto, de até 250 palavras, em capítulo único, sobre um engenheiro de softwares que descobre um portal mágico para um mundo habitado por duendes programadores backend go horse. O conto deve ter um tom sarcástico e explorar temas como superação e mudança de mentalidade."
 Resposta: 
 
 
