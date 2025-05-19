@@ -78,6 +78,8 @@ Slide 5: contato e chamada para ação.
 Ferramentas sugeridas: use ChatGPT® para redigir o texto e ferramentas como Beautiful.AI® ou Copilot® para criar os slides.
 Entrega final:
 Uma proposta detalhada em formato de documento.
+
+
 Um pitch visual com slides.
 4.3.6 Reflexão
 Como a IA contribuiu para a agilidade e qualidade na criação da proposta e do pitch?
