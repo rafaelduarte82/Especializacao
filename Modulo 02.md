@@ -9,6 +9,7 @@ Contexto: forneça contexto relevante sobre o destinatário e a ação desejada;
 Exemplos: inclua exemplos de cartas persuasivas para inspirar o modelo;
 Tom e estilo: ajuste o tom e o estilo da carta de acordo com o destinatário e o objetivo da comunicação.
 
+
 2.3.3 Exercício 3: o Roteiro Criativo
 Objetivo: gerar um roteiro para um vídeo curto e criativo sobre [tema].
 Prompt: "Imagine que você é um roteirista de cinema. Crie um roteiro detalhado para um vídeo curto (máximo 90 s) sobre fazendas de dinossauros. O vídeo deve incluir transições misteriosas, insinuações dos dinossauros, e no final mostrar que estava falando de dinossauros aviários, mais especificamente, avestruzes. Após apresentar o bicho, se dirigir aos investidores do mercado de criação de avestrus, indicando as ventagens e tendências de mercado. Manter um tom debochado, pseudo-informativo. "
