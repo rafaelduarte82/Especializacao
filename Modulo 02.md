@@ -17,7 +17,9 @@ Prompt: "Imagine que você é um roteirista de cinema. Crie um roteiro detalhado
 2.3.4 Exercício 4: Análise de Sentimentos em Reviews
 Objetivo: utilizar um modelo de linguagem para analisar o sentimento expresso em reviews de um produto/serviço.
 Prompt: "Analise o sentimento expresso nos seguintes reviews de computadores de ba ixo custo para a clace C e D. Classifique cada review como positivo, negativo ou neutro. Justifique sua classificação com base nas palavras e expressões utilizadas.
-Reviews:"
+Reviews:
+
+"
 Dicas:
 Formato: organize os reviews em uma lista ou tabela para facilitar a análise do modelo;
 Contexto: forneça contexto sobre o produto/serviço para auxiliar na interpretação dos reviews;
