@@ -52,7 +52,7 @@ Deve incluir gráficos, tabelas e análises textuais.
 Personalize o layout para apresentação em uma reunião.
 4.2.5 Reflexão
 Como a geração automatizada de relatórios impacta a eficiência do trabalho? agilidade e facilidade no processo
-Quais melhorias você faria no prompt ou na estrutura do relatório? seria possivel a criaçao de mais graficos, com análises diferenciadas (lucro, custo, lucratividade)
+Quais melhorias você faria no prompt ou na estrutura do relatório? seria possivel a criaçao de mais graficos, com análises diferenciadas (lucro, custo, lucratividade). 
 Que outras informações poderiam ser adicionadas ao relatório para agregar mais valor?
 
 
