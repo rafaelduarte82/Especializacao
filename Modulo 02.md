@@ -25,7 +25,6 @@ Achei que ia rodar mais programas, mas trava bastante, principalmente quando abr
 É um computador simples, nada demais, mas dá pro gasto se você só precisa acessar a internet e ver vídeos.
 
 Gostei muito, chegou rápido e já veio com tudo instalado, muito bom pra quem não entende muito de informática.
-
 Infelizmente o produto veio com defeito na tela e o atendimento da loja demorou pra resolver, fiquei bem frustrado.
 "
 Dicas:
