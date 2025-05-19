@@ -71,7 +71,6 @@ Narração (tom debochado):
 
 [20s – 30s] — Chamada para investidores
 Cena: Um avestruz de óculos escuros passa em câmera lenta. Infográficos com gráficos subindo e símbolos de cifrão pipocam na tela.
-
 Narração:
 "Investir em avestruz é apostar na proteína do futuro. Baixo carbono, alta margem, e 100% paleochique."
 Texto na tela:
