@@ -19,7 +19,6 @@ Ao Sr. Nicolas Pardal
 Pós-graduando em Maquetaria Gastronômica
 
 Prezado Sr. Pardal,
-
 Escrevo-lhe, enquanto CEO do Tigrinho, com admiração pela sua trajetória acadêmica, mas também com preocupação estratégica diante de sua intenção de ingressar em um doutorado.
 No Brasil, infelizmente, o grau de doutor ainda não é devidamente valorizado no mercado formal. O retorno financeiro de tal investimento — considerando-se anos de pesquisa, sacrifício pessoal e instabilidade — é frequentemente desproporcional. A escassez de vagas em universidades e centros de pesquisa, aliada à crescente precarização das carreiras acadêmicas, impõe obstáculos não apenas à sua estabilidade, mas à própria relevância prática do título.
 Em contraponto, a economia da atenção oferece retorno mais rápido, liberdade criativa e impacto social tangível. Profissionais com sua originalidade poderiam alcançar notoriedade como divulgadores científicos ou criadores de conteúdo, especialmente em plataformas como o TikTok, que democratizam o conhecimento e geram receita.
