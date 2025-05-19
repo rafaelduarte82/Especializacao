@@ -53,3 +53,30 @@ Que melhorias poderiam ser feitas para refinar as mensagens?
 
 
 
+5.3.6 Exercício Prático
+Objetivo: criar uma ata de reunião automatizada com base em tópicos fornecidos.
+
+Tarefa:
+
+Contexto da reunião:
+Título: Reunião de Planejamento do Evento Corporativo.
+Data e Hora: 15 de março, às 10h.
+Participantes: Maria, Carlos, Pedro e Ana.
+Pontos discutidos:
+Decisão sobre o local do evento (Hotel Central).
+Definição do orçamento inicial (R$50.000).
+Atribuição de tarefas:
+Carlos: negociar com fornecedores.
+Ana: criar a agenda do evento.
+Pedro: organizar transporte e logística.
+Instruções:
+Use uma ferramenta como ChatGPT® ou Fireflies.AI® para gerar a ata da reunião.
+Certifique-se de incluir:
+Informações básicas.
+Discussões e decisões tomadas.
+Próximos passos, responsáveis e prazos.
+Entrega: apresente uma ata estruturada, com todas as informações organizadas em seções objetivas e precisas.
+5.3.7 Reflexão
+A ata gerada atendeu às expectativas de clareza e organização?
+O formato automatizado foi útil para documentar todos os tópicos discutidos?
+Que ajustes você faria no prompt ou no uso da ferramenta para melhorar o resultado?
