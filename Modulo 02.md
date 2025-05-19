@@ -11,7 +11,26 @@ feat(portal): add feature muito loka (confia)."
 
 2.3.2 Exercício 2: a Carta Persuasiva
 Prompt: "Escreva uma carta formal e persuasiva para um pós graduando de mestrado, com o objetivo de convencê-lo a não seguir para o doutorado. Utilize argumentos convincentes e linguagem culta. A carta deve ter no máximo 200 palavras. Use argumentos sobre como doutorado não ser bem reconhecido no mercado de trabalho formal no Brasil, o tempo de payback e a falta de vagas para pesquisadores e outros profissionais qualificados e que é bem maias fácilser tiktoker"
-Resposta: ""
+Resposta: "Tigrinho Corp.
+Av. Selvagem, 777 – Floresta Primeira
+Fronteira Sul, 18 de maio de 2025
+
+Ao Sr. Nicolas Pardal
+Pós-graduando em Maquetaria Gastronômica
+
+Prezado Sr. Pardal,
+
+Escrevo-lhe, enquanto CEO do Tigrinho, com admiração pela sua trajetória acadêmica, mas também com preocupação estratégica diante de sua intenção de ingressar em um doutorado.
+
+No Brasil, infelizmente, o grau de doutor ainda não é devidamente valorizado no mercado formal. O retorno financeiro de tal investimento — considerando-se anos de pesquisa, sacrifício pessoal e instabilidade — é frequentemente desproporcional. A escassez de vagas em universidades e centros de pesquisa, aliada à crescente precarização das carreiras acadêmicas, impõe obstáculos não apenas à sua estabilidade, mas à própria relevância prática do título.
+
+Em contraponto, a economia da atenção oferece retorno mais rápido, liberdade criativa e impacto social tangível. Profissionais com sua originalidade poderiam alcançar notoriedade como divulgadores científicos ou criadores de conteúdo, especialmente em plataformas como o TikTok, que democratizam o conhecimento e geram receita.
+
+Pense bem: o futuro da maquetaria gastronômica talvez não esteja em um laboratório, mas na palma da mão de milhões.
+
+Atenciosamente,
+Zé Onça
+CEO – Tigrinho"
 
 
 2.3.3 Exercício 3: o Roteiro Criativo
