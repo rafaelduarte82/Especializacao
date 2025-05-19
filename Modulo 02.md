@@ -1,5 +1,5 @@
 2.3.1 Exercício 1: a História Inesperada
-Prompt: "Escreva um conto curto sobre um engenheiro de softwares que descobre um portal mágico para um mundo habitado por duendes programadores backend go horse. O conto deve ter um tom sarcástico e explorar temas como superação e mudança de ."
+Prompt: "Escreva um conto curto sobre um engenheiro de softwares que descobre um portal mágico para um mundo habitado por duendes programadores backend go horse. O conto deve ter um tom sarcástico e explorar temas como superação e mudança de mentalidade."
 Dicas:
 Preencha as lacunas: escolha uma profissão incomum (ex: bibliotecário, chef de cozinha, astronauta) e criaturas fantásticas originais (ex: sereias falantes, árvores inteligentes, duendes tecnológicos);
 Defina o tom e os temas: explore diferentes combinações para criar histórias únicas;
