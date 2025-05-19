@@ -99,6 +99,6 @@ Um pitch visual com slides.
 
 
 4.3.6 Reflexão
-Como a IA contribuiu para a agilidade e qualidade na criação da proposta e do pitch? Agilizou a criação do arquivo docs
+Como a IA contribuiu para a agilidade e qualidade na criação da proposta e do pitch? Agilizou a criação do arquivo docx 
 Quais melhorias você faria no layout ou no conteúdo?
 Quais outras aplicações você enxerga para essa abordagem em seu campo de atuação?
