@@ -99,6 +99,6 @@ Um pitch visual com slides.
 
 
 4.3.6 Reflexão
-Como a IA contribuiu para a agilidade e qualidade na criação da proposta e do pitch? O copilot agilizou a criação do arquivo docx e pptx, propondo uma 
+Como a IA contribuiu para a agilidade e qualidade na criação da proposta e do pitch? O copilot agilizou a criação do arquivo docx e pptx, propondo uma extrutura base
 Quais melhorias você faria no layout ou no conteúdo?
 Quais outras aplicações você enxerga para essa abordagem em seu campo de atuação?
