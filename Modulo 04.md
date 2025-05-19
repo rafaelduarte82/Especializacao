@@ -3,19 +3,7 @@ Objetivo: criar uma planilha financeira detalhada utilizando IA para organizar e
 
 Tarefa:
 
-Use os seguintes dados fornecidos:
-Receita: R$100.000 (janeiro), R$120.000 (fevereiro), R$110.000 (março).
-Despesas:
-Fixas: R$50.000 (mensal).
-Variáveis: R$20.000 (janeiro), R$25.000 (fevereiro), R$15.000 (março).
-Instruções:
-Calcule o total de despesas (fixas + variáveis).
-Determine o saldo mensal (receita - despesas).
-Adicione colunas para as categorias e cálculos.
-Crie gráficos:
-Um gráfico de barras para comparar receitas, despesas e saldos.
-Um gráfico de setores para mostrar a proporção das despesas fixas e variáveis.
-Ferramentas sugeridas: utilize ChatGPT®, Copilot® ou SheetAI® para gerar os resultados.
+c
 
 4.1.6 Reflexão
 Quais foram as dificuldades encontradas ao criar a planilha? No GPT ele criou graficos estáticos. ao pedir para criar graficos em xlsx acabaram meus tokens. no Google Gemini, ele nao cria planilhas, apenas tabelas no proprio chat. o Claude criou sem dificuldades, com recursos interativos no navegador criou sem dificuldades para exibição em tela, de uma pagina interativa react, mas nao xls. Todos instruiram como eu poderia criar o excel manualmente, a parir da tabela dos dados organizados mais orientações de como criar o gráfico.
