@@ -19,7 +19,7 @@ Objetivo: utilizar um modelo de linguagem para analisar o sentimento expresso em
 Prompt: "Analise o sentimento expresso nos seguintes reviews de computadores de ba ixo custo para a clace C e D. Classifique cada review como positivo, negativo ou neutro. Justifique sua classificação com base nas palavras e expressões utilizadas.
 Reviews:
 1. Comprei pra minha filha fazer os trabalhos da escola e até agora tá funcionando direitinho, bem rápido pro que a gente precisa.
-Achei que ia rodar mais programas, mas trava bastante, principalmente quando abro mais de uma aba no navegador.
+2. Achei que ia rodar mais programas, mas trava bastante, principalmente quando abro mais de uma aba no navegador.
 É um computador simples, nada demais, mas dá pro gasto se você só precisa acessar a internet e ver vídeos.
 Gostei muito, chegou rápido e já veio com tudo instalado, muito bom pra quem não entende muito de informática.
 Infelizmente o produto veio com defeito na tela e o atendimento da loja demorou pra resolver, fiquei bem frustrado.
