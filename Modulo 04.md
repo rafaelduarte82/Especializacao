@@ -91,7 +91,6 @@ Benefícios:
 
 Custo:
 O investimento para o serviço de consultoria em marketing digital é de R$15.000.
-
 Cronograma:
 O cronograma para implementação do serviço é de três meses, com etapas definidas para garantir resultados eficazes.
 Contato:
