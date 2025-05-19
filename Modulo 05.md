@@ -15,6 +15,11 @@ Instruções:
 Use uma ferramenta como ChatGPT®, Quillbot® ou JasperAI® para criar o resumo.
 Limite o texto a 100 palavras, incluindo contexto, principais dados e recomendações.
 Entrega:
-Um resumo preciso e bem estruturado com insights relevantes
+Um resumo preciso e bem estruturado com insights relevantes.
+18 No mundo corporativo, player é usado para se referir a empresas que são relevantes em um determinado segmento ou setor da economia.
 
 
+5.1.8 Reflexão
+Como a IA ajudou a sintetizar as informações mais importantes?
+O resumo gerado atendeu às expectativas de precisão e objetividade?
+Quais ajustes você faria no prompt ou no uso da ferramenta para melhorar o resultado?
