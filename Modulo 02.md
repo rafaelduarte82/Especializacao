@@ -52,7 +52,6 @@ Narração:
 "Escondidos em fazendas secretas, financiadas por visionários e entusiastas do churrasco exótico…"
 
 Som: Um grito gutural ecoa ao longe. Música corta subitamente para silêncio tenso.
-
 [10s – 15s] — Revelação gradual
 Cena: Silhueta de um animal enorme correndo atrás de arbustos, câmera tremida estilo "Blair Witch", closes em penas balançando ao vento.
 Narração:
