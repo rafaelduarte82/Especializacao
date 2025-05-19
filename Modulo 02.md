@@ -1,5 +1,4 @@
 2.3.1 Exercício 1: a História Inesperada
-Objetivo: gerar um conto criativo e original com elementos inesperados.
 Prompt: "Escreva um conto curto sobre um engenheiro de softwares que descobre um portal mágico para um mundo habitado por duendes programadores backend go horse. O conto deve ter um tom sarcástico e explorar temas como superação."
 
 2.3.2 Exercício 2: a Carta Persuasiva
