@@ -51,14 +51,15 @@ Reviews:
 4. Gostei muito, chegou rápido e já veio com tudo instalado, muito bom pra quem não entende muito de informática.
 5. Infelizmente o produto veio com defeito na tela e o atendimento da loja demorou pra resolver, fiquei bem frustrado.
 "
-Resposta:
+Resposta:"
+"
 
 
 2.3.5 Exercício 5: Geração de Ideias Criativas
 Objetivo: Peça ao modelo para criar uma lista de ideias para um comercial de um novo smartphone.
 Prompts:
 1) "Sugira cinco ideias criativas para um comercial de um smartphone moderno."
-Resposta:""
+
 2) "Gere cinco ideias para um comercial de um smartphone, destacando sua câmera de alta resolução e bateria de longa duração."
 
 Análise: Qual prompt gerou ideias mais alinhadas às características do produto?
