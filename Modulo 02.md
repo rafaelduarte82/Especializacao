@@ -11,11 +11,6 @@ feat(portal): add feature muito loka (confia)."
 
 2.3.2 Exercício 2: a Carta Persuasiva
 Prompt: "Escreva uma carta formal e persuasiva , de Zé Onça, CEO do Tigrinho, para Nicolas Pardal, pós-graduando de mestrado em maquetaria gastronômica, para objetivo de convencê-lo a não seguir para o doutorado. Utilize argumentos convincentes e linguagem culta. A carta deve ter no máximo 200 palavras. Use argumentos sobre como doutorado não ser bem reconhecido no mercado de trabalho formal no Brasil, o tempo de payback e a falta de vagas para pesquisadores e outros profissionais qualificados e que é bem maias fácil ser tiktoker
-
-
-
-5/5
-
 "
 Resposta: "Tigrinho Corp.
 Av. Selvagem, 777 – Floresta Primeira
