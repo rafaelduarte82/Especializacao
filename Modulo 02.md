@@ -29,7 +29,15 @@ CEO – Tigrinho"
 2.3.3 Exercício 3: o Roteiro Criativo
 Prompt: "Imagine que você é um roteirista de cinema. Crie um roteiro detalhado para um vídeo curto (máximo 30 s) sobre fazendas de dinossauros. O vídeo deve incluir transições misteriosas, insinuações dos dinossauros, e no final mostrar que estava falando de dinossauros aviários, mais especificamente, avestruzes. Após apresentar o bicho, se dirigir aos investidores do mercado de criação de avestruz, indicando as ventagens e tendências de mercado. Manter um tom debochado, pseudo-informativo. Escrever como tabela"
 Resposta:"
-"
+🎬 Roteiro Tabela — "A Revolução Jurássica... que bota ovo"
+Tempo	Cena	Som / Trilha	Narração / Texto
+0s – 5s	Campos vazios com névoa. Pegadas gigantes no barro. Clima misterioso.	Vento assobiando, bumbo grave crescente	"Durante milhões de anos, eles dominaram a Terra... e agora, eles estão voltando."
+5s – 10s	Gaiolas abertas, cerca elétrica tremendo, ovo rachando lentamente	Música dramática; grito gutural ao fundo	"Escondidos em fazendas secretas, financiadas por visionários e entusiastas do churrasco exótico…"
+10s – 15s	Silhueta correndo, penas balançando, câmera tremida estilo found footage	Música tensa; silêncio abrupto no final	"Altos. Ágeis. Plumas mortais. São as aves do juízo final..."
+15s – 20s	AVESTRUZ aparece correndo desajeitado. Corte para humor.	Música épica interrompida por xilofone cômico	"Avestruzes. Porque nem todo dinossauro quer te comer. Alguns só querem botar ovos gigantes e gerar lucro."
+20s – 30s	Avestruz com óculos escuros em câmera lenta. Gráficos subindo. Símbolos de cifrão na tela.	Música épica remixada com brega funk	"Investir em avestruz é apostar na proteína do futuro. Baixo carbono, alta margem, e 100% paleochique."
+Texto na tela: “Dinossauros não foram extintos. Eles só abriram CNPJ.”
+📈 Entre já para o Jurassic Market™."
 
 
 2.3.4 Exercício 4: Análise de Sentimentos em Reviews
