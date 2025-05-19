@@ -1,10 +1,7 @@
 2.3.1 Exercício 1: a História Inesperada
 Objetivo: gerar um conto criativo e original com elementos inesperados.
 Prompt: "Escreva um conto curto sobre um engenheiro de softwares que descobre um portal mágico para um mundo habitado por duendes programadores backend go horse. O conto deve ter um tom sarcástico e explorar temas como superação."
-Dicas:
-Preencha as lacunas: escolha uma profissão incomum (ex: bibliotecário, chef de cozinha, astronauta) e criaturas fantásticas originais (ex: sereias falantes, árvores inteligentes, duendes tecnológicos);
-Defina o tom e os temas: explore diferentes combinações para criar histórias únicas;
-Experimente: gere diferentes versões do conto, variando os parâmetros do modelo de linguagem (temperatura, tamanho do texto, etc.) e compare os resultados.
+
 2.3.2 Exercício 2: a Carta Persuasiva
 Objetivo: gerar uma carta persuasiva para convencer alguém a [ação desejada].
 Prompt: "Escreva uma carta formal e persuasiva para [destinatário], com o objetivo de convencê-lo(a) a [ação desejada]. Utilize argumentos convincentes e linguagem culta. A carta deve ter no máximo [número] palavras."
