@@ -7,7 +7,7 @@ Experimente: gere diferentes versões do conto, variando os parâmetros do model
 
 2.3.2 Exercício 2: a Carta Persuasiva
 Objetivo: gerar uma carta persuasiva para convencer alguém a [ação desejada].
-Prompt: "Escreva uma carta formal e persuasiva para um pós graduando de mestrado, com o objetivo de convencê-lo a não seguir para o doutorado. Utilize argumentos convincentes e linguagem culta. A carta deve ter no máximo 200 palavras. Use argumentos sobre como doutorado não ser bem reconhecido no mercado de trabalho formal no Brasil, o tempo de payback e a falta de va"
+Prompt: "Escreva uma carta formal e persuasiva para um pós graduando de mestrado, com o objetivo de convencê-lo a não seguir para o doutorado. Utilize argumentos convincentes e linguagem culta. A carta deve ter no máximo 200 palavras. Use argumentos sobre como doutorado não ser bem reconhecido no mercado de trabalho formal no Brasil, o tempo de payback e a falta de vagas para "
 
 Dicas:
 Contexto: forneça contexto relevante sobre o destinatário e a ação desejada;
