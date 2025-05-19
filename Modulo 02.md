@@ -28,45 +28,7 @@ CEO – Tigrinho"
 
 2.3.3 Exercício 3: o Roteiro Criativo
 Prompt: "Imagine que você é um roteirista de cinema. Crie um roteiro detalhado para um vídeo curto (máximo 30 s) sobre fazendas de dinossauros. O vídeo deve incluir transições misteriosas, insinuações dos dinossauros, e no final mostrar que estava falando de dinossauros aviários, mais especificamente, avestruzes. Após apresentar o bicho, se dirigir aos investidores do mercado de criação de avestruz, indicando as ventagens e tendências de mercado. Manter um tom debochado, pseudo-informativo."
-Resposta:"🎬 Título do vídeo:
-"A Revolução Jurássica... que bota ovo"
-
-⏱️ Duração total: 30 segundos
-🎭 Gênero: Pseudo-documentário, mistério, comédia debochada
-🎙️ Narração estilo David Attenborough + sarcasmo do Gregório Duvivier
-📜 ROTEIRO DETALHADO
-[0s – 5s] — Introdução misteriosa
-Cena: Imagens aéreas de campos vazios com névoa matinal, som ambiente de vento assobiando. Um som grave de tambor crescente ao fundo.
-
-Narração (voz sussurrada):
-
-"Durante milhões de anos, eles dominaram a Terra... e agora, eles estão voltando."
-
-Transição: Corte rápido para pegadas gigantes no barro, mas sem mostrar o animal. Música dramática começa.
-
-[5s – 10s] — Insinuações pré-históricas
-Cena: Gaiolas parcialmente abertas, uma cerca elétrica tremendo, um ovo rachando lentamente (muito maior do que um ovo normal).
-
-Narração:
-"Escondidos em fazendas secretas, financiadas por visionários e entusiastas do churrasco exótico…"
-Som: Um grito gutural ecoa ao longe. Música corta subitamente para silêncio tenso.
-[10s – 15s] — Revelação gradual
-Cena: Silhueta de um animal enorme correndo atrás de arbustos, câmera tremida estilo "Blair Witch", closes em penas balançando ao vento.
-Narração:
-"Altos. Ágeis. Plumas mortais. São as aves do juízo final..."
-Transição: Close-up no olho do “predador”… que pisca lentamente.
-[15s – 20s] — Plot twist + Deboche
-Cena: Corte brusco. Um AVESTRUZ correndo desajeitadamente no campo. Música épica é substituída por xilofone cômico.
-Narração (tom debochado):
-"Avestruzes. Porque nem todo dinossauro quer te comer. Alguns só querem botar ovos gigantes e gerar lucro."
-[20s – 30s] — Chamada para investidores
-Cena: Um avestruz de óculos escuros passa em câmera lenta. Infográficos com gráficos subindo e símbolos de cifrão pipocam na tela.
-Narração:
-"Investir em avestruz é apostar na proteína do futuro. Baixo carbono, alta margem, e 100% paleochique."
-Texto na tela:
-🦖 “Dinossauros não foram extintos. Eles só abriram CNPJ.”
-📈 Entre já para o Jurassic Market™.
-Música final: Tema épico remixado com batida de brega funk.
+Resposta:"
 "
 
 
