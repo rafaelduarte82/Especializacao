@@ -17,7 +17,10 @@ Um gráfico de barras para comparar receitas, despesas e saldos.
 Um gráfico de setores para mostrar a proporção das despesas fixas e variáveis.
 Ferramentas sugeridas: utilize ChatGPT®, Copilot® ou SheetAI® para gerar os resultados.
 
-
+4.1.6 Reflexão
+Quais foram as dificuldades encontradas ao criar a planilha?
+Como a IA facilitou o processo?
+Que outras funcionalidades você incluiria na planilha para melhor análi
 
 
 
