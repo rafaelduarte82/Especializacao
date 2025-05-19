@@ -54,7 +54,7 @@ Objetivo: criar um resumo executivo de um estudo fictício utilizando IA.
 5.3.6 Exercício Prático
   * Objetivo: criar uma ata de reunião automatizada com base em tópicos fornecidos.
   * Tarefa:
-    Contexto da reunião:
+    * Contexto da reunião:
 Título: Reunião de Planejamento do Evento Corporativo.
 Data e Hora: 15 de março, às 10h.
 Participantes: Maria, Carlos, Pedro e Ana.
