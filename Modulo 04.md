@@ -95,6 +95,9 @@ Email: contato@consultoria.com
 Telefone: (11) 1234-5678
 
 Um pitch visual com slides.
+
+
+
 4.3.6 Reflexão
 Como a IA contribuiu para a agilidade e qualidade na criação da proposta e do pitch?
 Quais melhorias você faria no layout ou no conteúdo?
