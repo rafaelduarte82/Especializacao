@@ -88,7 +88,6 @@ Benefícios:
 - Aumento de 25% no alcance digital em seis meses.
 - Estratégias personalizadas para atender às necessidades específicas de cada cliente.
 - Expertise em marketing digital com anos de experiência no mercado.
-
 Custo:
 O investimento para o serviço de consultoria em marketing digital é de R$15.000.
 Cronograma:
