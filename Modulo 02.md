@@ -22,7 +22,7 @@ Reviews:
 2. Achei que ia rodar mais programas, mas trava bastante, principalmente quando abro mais de uma aba no navegador.
 3. É um computador simples, nada demais, mas dá pro gasto se você só precisa acessar a internet e ver vídeos.
 4. Gostei muito, chegou rápido e já veio com tudo instalado, muito bom pra quem não entende muito de informática.
-5Infelizmente o produto veio com defeito na tela e o atendimento da loja demorou pra resolver, fiquei bem frustrado.
+5. Infelizmente o produto veio com defeito na tela e o atendimento da loja demorou pra resolver, fiquei bem frustrado.
 "
 Dicas:
 Formato: organize os reviews em uma lista ou tabela para facilitar a análise do modelo;
