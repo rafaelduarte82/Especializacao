@@ -2,6 +2,7 @@
 Prompt: "Escreva um conto curto sobre um engenheiro de softwares que descobre um portal mágico para um mundo habitado por duendes programadores backend go horse. O conto deve ter um tom sarcástico e explorar temas como superação e mudança de mentalidade."
 
 
+
 2.3.2 Exercício 2: a Carta Persuasiva
 Prompt: "Escreva uma carta formal e persuasiva para um pós graduando de mestrado, com o objetivo de convencê-lo a não seguir para o doutorado. Utilize argumentos convincentes e linguagem culta. A carta deve ter no máximo 200 palavras. Use argumentos sobre como doutorado não ser bem reconhecido no mercado de trabalho formal no Brasil, o tempo de payback e a falta de vagas para pesquisadores e outros profissionais qualificados e que é bem maias fácilser tiktoker"
 Dicas:
