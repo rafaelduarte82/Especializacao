@@ -48,7 +48,6 @@ Transição: Corte rápido para pegadas gigantes no barro, mas sem mostrar o ani
 Cena: Gaiolas parcialmente abertas, uma cerca elétrica tremendo, um ovo rachando lentamente (muito maior do que um ovo normal).
 
 Narração:
-
 "Escondidos em fazendas secretas, financiadas por visionários e entusiastas do churrasco exótico…"
 Som: Um grito gutural ecoa ao longe. Música corta subitamente para silêncio tenso.
 [10s – 15s] — Revelação gradual
