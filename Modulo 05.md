@@ -36,7 +36,7 @@ Objetivo: criar um resumo executivo de um estudo fictício utilizando IA.
       * Ponto de destaque: aumento de 20% no engajamento nas redes sociais.
       * Próximos passos: finalizar os ajustes no design da campanha até a próxima semana.
   * Contexto 2: escreva um e-mail informal para um colega, agradecendo por ter ajudado a solucionar um problema técnico e sugerindo uma reunião para discutir novos projetos.
-*Informações:
+* Informações:
 Problema resolvido: bug no sistema de vendas online.
 Proposta: reunião na quinta-feira às 15h.
 Instruções:
