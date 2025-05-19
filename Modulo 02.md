@@ -52,6 +52,13 @@ Reviews:
 5. Infelizmente o produto veio com defeito na tela e o atendimento da loja demorou pra resolver, fiquei bem frustrado.
 "
 Resposta:"
+| # | Review                                                                                          | Sentimento  | Justificativa                                                                                           |
+|---|--------------------------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------|
+| 1 | Comprei pra minha filha fazer os trabalhos da escola e até agora tá funcionando direitinho...  | Positivo    | Expressões como "funcionando direitinho" e "bem rápido pro que a gente precisa" indicam satisfação.     |
+| 2 | Achei que ia rodar mais programas, mas trava bastante...                                        | Negativo    | Palavras como "trava bastante" e decepção com as expectativas frustradas apontam insatisfação.          |
+| 3 | É um computador simples, nada demais, mas dá pro gasto...                                       | Neutro      | Avaliação equilibrada, reconhece limitações mas também utilidade mínima; sem emoção forte.              |
+| 4 | Gostei muito, chegou rápido e já veio com tudo instalado...                                     | Positivo    | Expressões como "gostei muito", "chegou rápido", "muito bom" são marcadores claros de satisfação.       |
+| 5 | Infelizmente o produto veio com defeito na tela e o atendimento da loja demorou...             | Negativo    | Termos como "infelizmente", "defeito", "demorou", "frustrado" expressam clara insatisfação.             |
 "
 
 
