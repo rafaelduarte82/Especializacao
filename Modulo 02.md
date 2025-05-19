@@ -90,5 +90,5 @@ Prompt 2 > Prompt 1 em termos de aderência ao briefing e valor comercial. Promp
 ✅ Conclusão:
 O Prompt 2 gera ideias mais alinhadas às características do produto, pois direciona a criatividade para os diferenciais técnicos específicos (câmera e bateria), aumentando a eficácia do comercial como peça de marketing funcional.
 
-Concordo com a análise do gp
+Concordo com a análise do 
 
