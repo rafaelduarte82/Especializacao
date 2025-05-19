@@ -71,12 +71,22 @@ Prompts:
 
 Resposta: "Usei o proprio chatgpt para comparar as duas opções. 
 🧠 Análise Comparativa:
-Critério	Prompt 1	Prompt 2
-Alinhamento com o produto	Moderado: pode tangenciar características técnicas.	Alto: foco explícito nos principais diferenciais.
-Nível de criatividade	Alto, mas mais abstrato	Moderado a alto, dentro de um foco funcional
-Clareza de mensagem	Variável (depende da execução)	Alta: direcionada a atributos de interesse do usuário
-Potencial persuasivo	Médio (emocional, genérico)	Alto (funcional, baseado em benefícios tangíveis)
-Aderência a briefing técnico	Baixa	Alta
+## 📊 Análise Comparativa dos Prompts
+
+| Critério                        | Prompt 1: "Sugira cinco ideias criativas para um comercial de um smartphone moderno." | Prompt 2: "Gere cinco ideias para um comercial de um smartphone, destacando sua câmera de alta resolução e bateria de longa duração." |
+|--------------------------------|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **Alinhamento com o produto**  | Moderado: pode tangenciar características técnicas                                       | Alto: foco explícito nos principais diferenciais                                                                                     |
+| **Nível de criatividade**      | Alto, mas mais abstrato                                                                  | Moderado a alto, dentro de um foco funcional                                                                                         |
+| **Clareza de mensagem**        | Variável (depende da execução)                                                           | Alta: direcionada a atributos de interesse do usuário                                                                                 |
+| **Potencial persuasivo**       | Médio (emocional, genérico)                                                              | Alto (funcional, baseado em benefícios tangíveis)                                                                                     |
+| **Aderência a briefing técnico** | Baixa                                                                                   | Alta                                                                                                                                  |
+
+## ✅ Conclusão:
+O **Prompt 2** é mais eficaz para gerar ideias alinhadas às características do produto, pois direciona a criatividade para os diferenciais técnicos mais relevantes — câmera e bateria. Já o Prompt 1 é mais adequado para explorar temas amplos e conceitos visuais, porém menos focado em vender funcionalidades específicas.
+
+## 🧵 TL;DR:
+Prompt 2 > Prompt 1 em termos de aderência ao briefing e valor comercial. Prompt 1 serve bem para campanhas de branding mais conceituais.
+
 ✅ Conclusão:
 O Prompt 2 gera ideias mais alinhadas às características do produto, pois direciona a criatividade para os diferenciais técnicos específicos (câmera e bateria), aumentando a eficácia do comercial como peça de marketing funcional.
 
