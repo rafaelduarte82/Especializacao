@@ -79,7 +79,6 @@ Narração:
 Texto na tela:
 🦖 “Dinossauros não foram extintos. Eles só abriram CNPJ.”
 📈 Entre já para o Jurassic Market™.
-
 Música final: Tema épico remixado com batida de brega funk.
 "
 
