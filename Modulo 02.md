@@ -11,10 +11,7 @@ feat(portal): add feature muito loka (confia)."
 
 2.3.2 Exercício 2: a Carta Persuasiva
 Prompt: "Escreva uma carta formal e persuasiva para um pós graduando de mestrado, com o objetivo de convencê-lo a não seguir para o doutorado. Utilize argumentos convincentes e linguagem culta. A carta deve ter no máximo 200 palavras. Use argumentos sobre como doutorado não ser bem reconhecido no mercado de trabalho formal no Brasil, o tempo de payback e a falta de vagas para pesquisadores e outros profissionais qualificados e que é bem maias fácilser tiktoker"
-Dicas:
-Contexto: forneça contexto relevante sobre o destinatário e a ação desejada;
-Exemplos: inclua exemplos de cartas persuasivas para inspirar o modelo;
-Tom e estilo: ajuste o tom e o estilo da carta de acordo com o destinatário e o objetivo da comunicação.
+
 
 
 2.3.3 Exercício 3: o Roteiro Criativo
