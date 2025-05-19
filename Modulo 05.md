@@ -70,7 +70,7 @@ Objetivo: criar um resumo executivo de um estudo fictício utilizando IA.
         * Certifique-se de incluir:
         * Informações básicas.
         * Discussões e decisões tomadas.
-Próximos passos, responsáveis e prazos.
+        * Próximos passos, responsáveis e prazos.
 Entrega: apresente uma ata estruturada, com todas as informações organizadas em seções objetivas e precisas.
 5.3.7 Reflexão
 A ata gerada atendeu às expectativas de clareza e organização?
