@@ -1,3 +1,7 @@
+
+
+
+
 Exercício 1: a História Inesperada
 Prompt: Agira como escritor de livros de ficção cientifica.
 Ter como inspiração o autor Isaac Asimov.
