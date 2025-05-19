@@ -27,7 +27,6 @@ No Brasil, infelizmente, o grau de doutor ainda não é devidamente valorizado n
 Em contraponto, a economia da atenção oferece retorno mais rápido, liberdade criativa e impacto social tangível. Profissionais com sua originalidade poderiam alcançar notoriedade como divulgadores científicos ou criadores de conteúdo, especialmente em plataformas como o TikTok, que democratizam o conhecimento e geram receita.
 
 Pense bem: o futuro da maquetaria gastronômica talvez não esteja em um laboratório, mas na palma da mão de milhões.
-
 Atenciosamente,
 Zé Onça
 CEO – Tigrinho"
