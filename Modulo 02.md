@@ -61,7 +61,6 @@ Narração:
 "Altos. Ágeis. Plumas mortais. São as aves do juízo final..."
 
 Transição: Close-up no olho do “predador”… que pisca lentamente.
-
 [15s – 20s] — Plot twist + Deboche
 Cena: Corte brusco. Um AVESTRUZ correndo desajeitadamente no campo. Música épica é substituída por xilofone cômico.
 Narração (tom debochado):
