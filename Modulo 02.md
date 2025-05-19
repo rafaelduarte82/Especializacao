@@ -69,7 +69,6 @@ Prompts:
 
 2) "Gere cinco ideias para um comercial de um smartphone, destacando sua câmera de alta resolução e bateria de longa duração."
 
-Análise: Qual prompt gerou ideias mais alinhadas às características do produto?
-Agora, com esses conhecimentos, você está preparado/a para criar prompts mais eficazes e explorar todo o potencial das ferramentas de IA Generativa. Na próxima Unidade, avançaremos para ferramentas para manipulação de modelos de linguagem.
+Resposta
 
 
