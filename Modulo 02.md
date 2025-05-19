@@ -29,6 +29,8 @@ Dicas:
 Formato: organize os reviews em uma lista ou tabela para facilitar a análise do modelo;
 Contexto: forneça contexto sobre o produto/serviço para auxiliar na interpretação dos reviews;
 Exemplos: se possível, inclua exemplos de reviews com diferentes sentimentos para calibrar o modelo.
+
+
 2.3.5 Exercício 5: Geração de Ideias Criativas
 Objetivo: Peça ao modelo para criar uma lista de ideias para um comercial de um novo smartphone.
 Prompts:
