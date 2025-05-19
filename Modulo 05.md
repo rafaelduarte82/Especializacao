@@ -19,8 +19,8 @@ Objetivo: criar um resumo executivo de um estudo fictício utilizando IA.
   * Um resumo preciso e bem estruturado com insights relevantes.
 
 * Reflexão
-    Como a IA ajudou a sintetizar as informações mais importantes?
-    O resumo gerado atendeu às expectativas de precisão e objetividade?
+Como a IA ajudou a sintetizar as informações mais importantes?
+O resumo gerado atendeu às expectativas de precisão e objetividade?
     Quais ajustes você faria no prompt ou no uso da ferramenta para melhorar o resultado?
 
 
