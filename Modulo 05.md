@@ -3,7 +3,7 @@ Objetivo: criar um resumo executivo de um estudo fictício utilizando IA.
 
 Tarefa:
 
-Documento original:
+* Documento original:
 Título: Crescimento do Mercado de E-commerce.
 Principais dados:
 Crescimento de 25% no mercado global em 2023.
