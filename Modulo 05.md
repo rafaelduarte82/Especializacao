@@ -62,7 +62,7 @@ Objetivo: criar um resumo executivo de um estudo fictício utilizando IA.
       * Decisão sobre o local do evento (Hotel Central).
       * Definição do orçamento inicial (R$50.000).
       * Atribuição de tarefas:
-Carlos: negociar com fornecedores.
+      * Carlos: negociar com fornecedores.
 Ana: criar a agenda do evento.
 Pedro: organizar transporte e logística.
 Instruções:
