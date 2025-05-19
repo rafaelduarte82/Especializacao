@@ -80,7 +80,6 @@ Entrega final:
 Uma proposta detalhada em formato de documento.
 
 Consultoria em Marketing Digital
-
 Introdução:
 Oferecemos serviços de consultoria em marketing digital para ajudar empresas a aumentar seu alcance digital e melhorar sua presença online.
 Benefícios:
