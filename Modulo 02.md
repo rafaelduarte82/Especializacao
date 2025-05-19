@@ -72,10 +72,16 @@ Prompts:
 Resposta: "Usei o proprio chatgpt para comparar as duas opções. 
 🧠 Análise Comparativa:
 
+Critério,Prompt 1: "Sugira cinco ideias criativas para um comercial de um smartphone moderno.",Prompt 2: "Gere cinco ideias para um comercial de um smartphone, destacando sua câmera de alta resolução e bateria de longa duração."
+Alinhamento com o produto,"Moderado: pode tangenciar características técnicas","Alto: foco explícito nos principais diferenciais"
+Nível de criatividade,"Alto, mas mais abstrato","Moderado a alto, dentro de um foco funcional"
+Clareza de mensagem,"Variável (depende da execução)","Alta: direcionada a atributos de interesse do usuário"
+Potencial persuasivo,"Médio (emocional, genérico)","Alto (funcional, baseado em benefícios tangíveis)"
+Aderência a briefing técnico,"Baixa","Alta"
 
 
 ✅ Conclusão:
 O Prompt 2 gera ideias mais alinhadas às características do produto, pois direciona a criatividade para os diferenciais técnicos específicos (câmera e bateria), aumentando a eficácia do comercial como peça de marketing funcional.
 
-Concordo com a análise do 
+Concordo com a análise do chatbot. Acredito que o prompt 2 seja mais completo, podendo ainda ser mais elaborado, com mais detalhes, num caso real
 
