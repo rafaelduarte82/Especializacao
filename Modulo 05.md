@@ -38,7 +38,7 @@ Objetivo: criar um resumo executivo de um estudo fictício utilizando IA.
   * Contexto 2: escreva um e-mail informal para um colega, agradecendo por ter ajudado a solucionar um problema técnico e sugerindo uma reunião para discutir novos projetos.
     * Informações:
       * Problema resolvido: bug no sistema de vendas online.
-Proposta: reunião na quinta-feira às 15h.
+      * Proposta: reunião na quinta-feira às 15h.
 Instruções:
 Use uma ferramenta como ChatGPT® ou Flowrite® para gerar os e-mails.
 Certifique-se de ajustar o tom e a estrutura de cada mensagem ao contexto.
