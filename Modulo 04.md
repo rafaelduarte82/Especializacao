@@ -61,7 +61,6 @@ Que outras informações poderiam ser adicionadas ao relatório para agregar mai
 Objetivo: criar uma proposta de negócio e uma apresentação de pitch com base em dados fornecidos.
 
 Tarefa:
-
 Cenário: você é responsável por criar uma proposta de negócio para um serviço de consultoria em marketing digital.
 Inclua seções como Introdução, Benefícios, Custo e Cronograma.
 Dados fornecidos:
