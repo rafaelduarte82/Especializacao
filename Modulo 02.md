@@ -58,7 +58,7 @@ Resposta:
 Objetivo: Peça ao modelo para criar uma lista de ideias para um comercial de um novo smartphone.
 Prompts:
 1) "Sugira cinco ideias criativas para um comercial de um smartphone moderno."
-
+Resposta:""
 2) "Gere cinco ideias para um comercial de um smartphone, destacando sua câmera de alta resolução e bateria de longa duração."
 
 Análise: Qual prompt gerou ideias mais alinhadas às características do produto?
