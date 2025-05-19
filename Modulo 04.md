@@ -16,3 +16,13 @@ Crie gráficos:
 Um gráfico de barras para comparar receitas, despesas e saldos.
 Um gráfico de setores para mostrar a proporção das despesas fixas e variáveis.
 Ferramentas sugeridas: utilize ChatGPT®, Copilot® ou SheetAI® para gerar os resultados.
+
+
+
+
+
+
+
+
+
+
