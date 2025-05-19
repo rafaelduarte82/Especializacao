@@ -79,6 +79,26 @@ Ferramentas sugeridas: use ChatGPT® para redigir o texto e ferramentas como Bea
 Entrega final:
 Uma proposta detalhada em formato de documento.
 
+Consultoria em Marketing Digital
+
+Introdução:
+Oferecemos serviços de consultoria em marketing digital para ajudar empresas a aumentar seu alcance digital e melhorar sua presença online.
+
+Benefícios:
+- Aumento de 25% no alcance digital em seis meses.
+- Estratégias personalizadas para atender às necessidades específicas de cada cliente.
+- Expertise em marketing digital com anos de experiência no mercado.
+
+Custo:
+O investimento para o serviço de consultoria em marketing digital é de R$15.000.
+
+Cronograma:
+O cronograma para implementação do serviço é de três meses, com etapas definidas para garantir resultados eficazes.
+
+Contato:
+Para mais informações e para iniciar sua consultoria, entre em contato conosco:
+Email: contato@consultoria.com
+Telefone: (11) 1234-5678
 
 Um pitch visual com slides.
 4.3.6 Reflexão
