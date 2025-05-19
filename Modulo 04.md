@@ -20,9 +20,9 @@ Ferramentas sugeridas: utilize ChatGPT®, Copilot® ou SheetAI® para gerar os r
 4.1.6 Reflexão
 Quais foram as dificuldades encontradas ao criar a planilha? No GPT ele criou graficos estáticos. ao pedir para criar graficos em xlsx acabaram meus tokens. no Google Gemini, ele nao cria planilhas, apenas tabelas no proprio chat. o Claude criou sem dificuldades, com recursos interativos no navegador criou sem dificuldades para exibição em tela, de uma pagina interativa react, mas nao xls. Todos instruiram como eu poderia criar o excel manualmente, a partir da tabela dos dados organizados mais orientações de como criar o gráfico. O Copilot executou todo o processo num unico prompt (arquivo anexo)
 Como a IA facilitou o processo? organizou os dados do texto em dados tabulares. Extraiu algumas informações a partir de calculos
-Que outras funcionalidades você incluiria na planilha para melhor análise. calculo de proje
+Que outras funcionalidades você incluiria na planilha para melhor análise. calculo de projeção financeira
 
-calculo de projeção 
+
 
 
 
