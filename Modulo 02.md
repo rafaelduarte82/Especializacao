@@ -51,7 +51,7 @@ Reviews:
 4. Gostei muito, chegou rápido e já veio com tudo instalado, muito bom pra quem não entende muito de informática.
 5. Infelizmente o produto veio com defeito na tela e o atendimento da loja demorou pra resolver, fiquei bem frustrado.
 "
-Resposta
+Resposta:
 
 
 2.3.5 Exercício 5: Geração de Ideias Criativas
