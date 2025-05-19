@@ -3,7 +3,6 @@ Prompt: "Escreva um conto curto, de até 250 palavras, em capítulo único, sobr
 Resposta: "Deploy no Além
 
 Hugo, engenheiro de softwares e evangelista da arquitetura limpa, tropeçou num pull request mal formatado e caiu — literalmente — dentro de um portal oculto sob a wiki da empresa. Ao abrir os olhos, encontrou-se num mundo de montanhas de stack traces e rios de logs. Era o Reino de Buglândia, lar dos Duendes Backend Go Horse™.
-
 Essas criaturas, pequenas e peludas, codificavam em cavernas escuras com nomes como “/tmp/produtao/versao_final_FINAL_zika3”. Refatoração era lenda urbana. “Testes? Só em produção!”, gritavam, enquanto implementavam APIs REST com side effects imprevisíveis e lógica de negócios acoplada ao HTML.
 Hugo tentou evangelizá-los: falou de SOLID, de CI/CD, da elegância dos microserviços. Foi ridicularizado e coroado “Sir Código Fresco, o Purista”. A humilhação o fez refletir: e se o caos fosse apenas outra forma de ordem?
 Inspirado, Hugo fundou o primeiro PMO (Portal Mágico Orientado) de Buglândia. Criou uma framework híbrida: Go Horse com linting e deploy agendado pelo ciclo lunar. O código não melhorou, mas os duendes se sentiram ouvidos. E Hugo, por fim, entendeu: nem toda sujeira precisa ser varrida — às vezes, só precisa de um bom nome de variável.
