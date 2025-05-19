@@ -41,7 +41,7 @@ Objetivo: criar um resumo executivo de um estudo fictício utilizando IA.
       * Proposta: reunião na quinta-feira às 15h.
   * Instruções:
     * Use uma ferramenta como ChatGPT® ou Flowrite® para gerar os e-mails.
-Certifique-se de ajustar o tom e a estrutura de cada mensagem ao contexto.
+    * Certifique-se de ajustar o tom e a estrutura de cada mensagem ao contexto.
 Entrega: apresente os dois e-mails gerados e analise se o tom e o conteúdo atendem ao propósito de cada cenário.
 5.2.7 Reflexão
 Como a IA ajudou a economizar tempo e garantir precisão na comunicação?
