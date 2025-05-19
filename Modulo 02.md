@@ -71,3 +71,4 @@ Prompts:
 
 Resposta: "Usei o proprio chatgpt para comparar as duas opções. 
 
+
