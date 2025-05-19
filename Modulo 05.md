@@ -46,7 +46,7 @@ Objetivo: criar um resumo executivo de um estudo fictício utilizando IA.
 5.2.7 Reflexão
   * Como a IA ajudou a economizar tempo e garantir precisão na comunicação?
   *   * s e-mails gerados foram adequados aos contextos propostos?
-Que melhorias poderiam ser feitas para refinar as mensagens?
+  *   Que melhorias poderiam ser feitas para refinar as mensagens?
 
 
 
