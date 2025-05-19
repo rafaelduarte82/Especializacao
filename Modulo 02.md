@@ -57,9 +57,7 @@ Som: Um grito gutural ecoa ao longe. Música corta subitamente para silêncio te
 Cena: Silhueta de um animal enorme correndo atrás de arbustos, câmera tremida estilo "Blair Witch", closes em penas balançando ao vento.
 
 Narração:
-
 "Altos. Ágeis. Plumas mortais. São as aves do juízo final..."
-
 Transição: Close-up no olho do “predador”… que pisca lentamente.
 [15s – 20s] — Plot twist + Deboche
 Cena: Corte brusco. Um AVESTRUZ correndo desajeitadamente no campo. Música épica é substituída por xilofone cômico.
