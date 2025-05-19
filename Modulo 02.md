@@ -15,7 +15,7 @@ Tom e estilo: ajuste o tom e o estilo da carta de acordo com o destinatário e o
 
 2.3.3 Exercício 3: o Roteiro Criativo
 Objetivo: gerar um roteiro para um vídeo curto e criativo sobre [tema].
-Prompt: "Imagine que você é um roteirista de cinema. Crie um roteiro detalhado para um vídeo curto (máximo 90 s) sobre fazendas de dinossauros. O vídeo deve incluir transições misterior e ter um tom [emocional/humorístico/informativo]."
+Prompt: "Imagine que você é um roteirista de cinema. Crie um roteiro detalhado para um vídeo curto (máximo 90 s) sobre fazendas de dinossauros. O vídeo deve incluir transições misteriosas e ter um tom [emocional/humorístico/informativo]."
 Dicas:
 Formato: especifique o formato do roteiro (cenas, diálogos, descrições);
 Público-alvo: defina o público-alvo do vídeo para adaptar a linguagem e o estilo;
