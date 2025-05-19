@@ -12,10 +12,7 @@ Tom e estilo: ajuste o tom e o estilo da carta de acordo com o destinatário e o
 
 2.3.3 Exercício 3: o Roteiro Criativo
 Prompt: "Imagine que você é um roteirista de cinema. Crie um roteiro detalhado para um vídeo curto (máximo 90 s) sobre fazendas de dinossauros. O vídeo deve incluir transições misteriosas, insinuações dos dinossauros, e no final mostrar que estava falando de dinossauros aviários, mais especificamente, avestruzes. Após apresentar o bicho, se dirigir aos investidores do mercado de criação de avestrus, indicando as ventagens e tendências de mercado. Manter um tom debochado, pseudo-informativo. "
-Dicas:
-Formato: especifique o formato do roteiro (cenas, diálogos, descrições);
-Público-alvo: defina o público-alvo do vídeo para adaptar a linguagem e o estilo;
-Detalhes: quanto mais detalhes você fornecer no prompt, mais completo será o roteiro gerado.
+
 
 
 2.3.4 Exercício 4: Análise de Sentimentos em Reviews
