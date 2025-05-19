@@ -64,3 +64,31 @@ Que outras informações poderiam ser adicionadas ao relatório para agregar mai
 
 
 
+4.3.5 Exercício Prático
+Objetivo: criar uma proposta de negócio e uma apresentação de pitch com base em dados fornecidos.
+
+Tarefa:
+
+Cenário: você é responsável por criar uma proposta de negócio para um serviço de consultoria em marketing digital.
+Inclua seções como Introdução, Benefícios, Custo e Cronograma.
+Dados fornecidos:
+Serviço:consultoria em marketing digital.
+Benefícios: aumento de 25% no alcance digital em seis meses.
+Custo: R$15.000.
+Cronograma: três meses para implementação.
+Instruções para a apresentação:
+Gere um pitch com até cinco slides.
+Estrutura sugerida:
+Slide 1: título e apresentação do serviço.
+Slide 2: problema e solução.
+Slide 3: benefícios e diferenciais.
+Slide 4: investimento e cronograma.
+Slide 5: contato e chamada para ação.
+Ferramentas sugeridas: use ChatGPT® para redigir o texto e ferramentas como Beautiful.AI® ou Copilot® para criar os slides.
+Entrega final:
+Uma proposta detalhada em formato de documento.
+Um pitch visual com slides.
+4.3.6 Reflexão
+Como a IA contribuiu para a agilidade e qualidade na criação da proposta e do pitch?
+Quais melhorias você faria no layout ou no conteúdo?
+Quais outras aplicações você enxerga para essa abordagem em seu campo de atuação?
