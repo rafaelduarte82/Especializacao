@@ -1,6 +1,6 @@
 2.3.1 Exercício 1: a História Inesperada
 Objetivo: gerar um conto criativo e original com elementos inesperados.
-Prompt: "Escreva um conto curto sobre um engenheiro de softwares que descobre um portal mágico para um mundo habitado por duendes programadores . O conto deve ter um tom [humorístico/sombrio/reflexivo] e explorar temas como [amizade/coragem/superação]."
+Prompt: "Escreva um conto curto sobre um engenheiro de softwares que descobre um portal mágico para um mundo habitado por duendes programadores go. O conto deve ter um tom [humorístico/sombrio/reflexivo] e explorar temas como [amizade/coragem/superação]."
 Dicas:
 Preencha as lacunas: escolha uma profissão incomum (ex: bibliotecário, chef de cozinha, astronauta) e criaturas fantásticas originais (ex: sereias falantes, árvores inteligentes, duendes tecnológicos);
 Defina o tom e os temas: explore diferentes combinações para criar histórias únicas;
