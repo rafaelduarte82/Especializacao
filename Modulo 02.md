@@ -14,10 +14,8 @@ Prompt: "Escreva uma carta formal e persuasiva para um pós graduando de mestrad
 Resposta: "Tigrinho Corp.
 Av. Selvagem, 777 – Floresta Primeira
 Fronteira Sul, 18 de maio de 2025
-
 Ao Sr. Nicolas Pardal
 Pós-graduando em Maquetaria Gastronômica
-
 Prezado Sr. Pardal,
 Escrevo-lhe, enquanto CEO do Tigrinho, com admiração pela sua trajetória acadêmica, mas também com preocupação estratégica diante de sua intenção de ingressar em um doutorado.
 No Brasil, infelizmente, o grau de doutor ainda não é devidamente valorizado no mercado formal. O retorno financeiro de tal investimento — considerando-se anos de pesquisa, sacrifício pessoal e instabilidade — é frequentemente desproporcional. A escassez de vagas em universidades e centros de pesquisa, aliada à crescente precarização das carreiras acadêmicas, impõe obstáculos não apenas à sua estabilidade, mas à própria relevância prática do título.
