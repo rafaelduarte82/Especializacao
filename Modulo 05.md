@@ -52,7 +52,7 @@ A IA serviu para sintetizar informações em um formato claro e conciso, preserv
 Contexto 1: E-mail formal para o chefe
 Assunto: Atualização do Projeto: Lançamento de Campanha Publicitária
 
-Prezado Sil,
+Prezado Si,
 
 Gostaria de informá-lo sobre o andamento do projeto Lançamento de Campanha Publicitária, que se encontra atualmente com 80% de execução. Um dos principais resultados alcançados até o momento foi um aumento de 20% no engajamento nas redes sociais, evidenciando o impacto positivo das ações iniciais.
 
