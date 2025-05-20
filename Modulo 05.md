@@ -108,7 +108,7 @@ A IA ajudou a estruturar os e-mails com clareza, economizando tempo e garantindo
         * Informações básicas.
         * Discussões e decisões tomadas.
         * Próximos passos, responsáveis e prazos.
-    * Entrega: apresente uma ata estruturada, com todas as informações organizadas em seções objetivas e precisas.
+    * **Entrega:** apresente uma ata estruturada, com todas as informações organizadas em seções objetivas e precisas.
 
 Ata da Reunião – Planejamento do Evento Corporativo
 
