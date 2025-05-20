@@ -101,7 +101,7 @@ A IA ajudou a estruturar os e-mails com clareza, economizando tempo e garantindo
         * Atribuição de tarefas:
           * **Carlos:** negociar com fornecedores.
           * **Ana:** criar a agenda do evento.
-          * Pedro: organizar transporte e logística.
+          * **Pedro:** organizar transporte e logística.
     * Instruções:
       * Use uma ferramenta como ChatGPT® ou Fireflies.AI® para gerar a ata da reunião.
       * Certifique-se de incluir:
