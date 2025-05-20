@@ -64,7 +64,7 @@ Atenciosamente,
 Rafael Duarte
 
 Contexto 2: E-mail informal para o colega
-Assunto: Valeu pela ajuda – Bora conversar sobre próximos projetos?
+Assunto: Valeu pela ajuda Bora conversar sobre próximos projetos?
 
 Oi [Nome do Colega],
 
