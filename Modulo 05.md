@@ -117,3 +117,39 @@ A IA ajudou a estruturar os e-mails com clareza, economizando tempo e garantindo
     * A ata gerada atendeu às expectativas de clareza e organização?
     * O formato automatizado foi útil para documentar todos os tópicos discutidos?
     * Que ajustes você faria no prompt ou no uso da ferramenta para melhorar o resultado?
+  * 
+5.3.6 – Ata de Reunião Automatizada
+Ata da Reunião – Planejamento do Evento Corporativo
+
+Data: 15 de março
+Hora: 10h
+Participantes: Maria, Carlos, Pedro e Ana
+
+Pauta e Deliberações:
+
+Local do Evento:
+
+Definido o Hotel Central como local oficial.
+
+Orçamento Inicial:
+
+Estabelecido o valor de R$50.000,00 como orçamento preliminar.
+
+Distribuição de Tarefas:
+
+Carlos: responsável por negociar com fornecedores.
+
+Ana: encarregada de elaborar a agenda do evento.
+
+Pedro: organizará transporte e logística.
+
+Encaminhamentos:
+
+Acompanhamento das tarefas será realizado na próxima reunião.
+
+Encerramento:
+Reunião encerrada às 11h15.
+
+Reflexão:
+
+A IA contribuiu para transformar os tópicos soltos em uma ata clara, padronizada e pronta para arquivamento. O uso de estruturas comuns de atas (título, data, participantes, pauta e encaminhamentos) foi eficiente. A melhoria poderia envolver a inclusão de campos automáticos como "responsável pela ata" ou a criação de um sistema de versionamento para atas sucessivas, caso o prompt pedisse.
