@@ -85,8 +85,6 @@ Rafael
 
 
 
-Reflexão:
-
 A IA ajudou a estruturar os e-mails com clareza, economizando tempo e garantindo um tom adequado a cada destinatário. O e-mail formal está alinhado às expectativas corporativas, enquanto o informal preserva a leveza e o tom de parceria. Uma melhoria possível seria refinar o prompt para incluir o estilo comunicacional específico da empresa (ex: mais conservador ou mais descontraído) ou adicionar um parágrafo de conclusão com uma chamada para ação mais clara no e-mail informal.
 
 
