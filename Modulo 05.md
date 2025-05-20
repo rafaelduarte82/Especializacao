@@ -93,7 +93,7 @@ A IA ajudou a estruturar os e-mails com clareza, economizando tempo e garantindo
   * **Tarefa:**
     * **Contexto da reunião:**
       * **Título:** Reunião de Planejamento do Evento Corporativo.
-      * Data e Hora: 15 de março, às 10h.
+      * **Data e Hora:** 15 de março, às 10h.
       * Participantes: Maria, Carlos, Pedro e Ana.
       * Pontos discutidos:
         * Decisão sobre o local do evento (Hotel Central).
