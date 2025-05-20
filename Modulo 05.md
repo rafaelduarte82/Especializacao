@@ -59,6 +59,8 @@ A IA foi crucial para sintetizar informações em um formato claro e conciso, pr
 
 
 
+
+
 5.3.6 Exercício Prático
   * Objetivo: criar uma ata de reunião automatizada com base em tópicos fornecidos.
   * Tarefa:
