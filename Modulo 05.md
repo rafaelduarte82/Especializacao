@@ -126,7 +126,6 @@ Pauta e Deliberações:
     * Pedro: organizará transporte e logística.
 
 Encaminhamentos: Acompanhamento das tarefas será realizado na próxima reunião.
-
 Encerramento: Reunião encerrada às 11h15.
 
 
