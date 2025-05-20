@@ -44,7 +44,7 @@ A IA serviu para sintetizar informações em um formato claro e conciso, preserv
     * **Informações:**
       * **Problema resolvido:** bug no sistema de vendas online.
       * **Proposta:** reunião na quinta-feira às 15h.
-  * Instruções:
+  * **Instruções:**
     * Use uma ferramenta como ChatGPT® ou Flowrite® para gerar os e-mails.
     * Certifique-se de ajustar o tom e a estrutura de cada mensagem ao contexto.
 
