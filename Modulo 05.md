@@ -115,7 +115,6 @@ A IA ajudou a estruturar os e-mails com clareza, economizando tempo e garantindo
     * O formato automatizado foi útil para documentar todos os tópicos discutidos?
     * Que ajustes você faria no prompt ou no uso da ferramenta para melhorar o resultado?
   * 
-5.3.6 – Ata de Reunião Automatizada
 Ata da Reunião – Planejamento do Evento Corporativo
 
 Data: 15 de março
