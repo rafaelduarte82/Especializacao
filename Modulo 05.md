@@ -110,6 +110,8 @@ A IA ajudou a estruturar os e-mails com clareza, economizando tempo e garantindo
         * Discussões e decisões tomadas.
         * Próximos passos, responsáveis e prazos.
     * Entrega: apresente uma ata estruturada, com todas as informações organizadas em seções objetivas e precisas.
+  
+  
 5.3.7 Reflexão
     * A ata gerada atendeu às expectativas de clareza e organização?
     * O formato automatizado foi útil para documentar todos os tópicos discutidos?
