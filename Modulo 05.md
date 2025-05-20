@@ -30,7 +30,7 @@ A IA serviu para sintetizar informações em um formato claro e conciso, preserv
 
 ---
 
-5.2.6 Exercício Prático
+#
 * Objetivo: criar e-mails automatizados para dois contextos profissionais distintos.
 
 * Tarefa:
