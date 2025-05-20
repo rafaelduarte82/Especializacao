@@ -1,6 +1,7 @@
 # 5.1.7 Exercício Prático
 **Objetivo:** criar um resumo executivo de um estudo fictício utilizando IA.
 * ** Tarefa:**
+* 
 * Documento original:
   * Título: Crescimento do Mercado de E-commerce.
   * Principais dados:
