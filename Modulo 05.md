@@ -90,7 +90,7 @@ A IA ajudou a estruturar os e-mails com clareza, economizando tempo e garantindo
 
 # 5.3.6 Exercício Prático
   * **Objetivo:** criar uma ata de reunião automatizada com base em tópicos fornecidos.
-  * Tarefa:
+  * **Tarefa:**
     * Contexto da reunião:
       * Título: Reunião de Planejamento do Evento Corporativo.
       * Data e Hora: 15 de março, às 10h.
