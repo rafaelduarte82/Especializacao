@@ -42,7 +42,7 @@ A IA serviu para sintetizar informações em um formato claro e conciso, preserv
       * **Próximos passos:** finalizar os ajustes no design da campanha até a próxima semana.
   * **Contexto 2:** escreva um e-mail informal para um colega, agradecendo por ter ajudado a solucionar um problema técnico e sugerindo uma reunião para discutir novos projetos.
     * **Informações:**
-      * Problema resolvido: bug no sistema de vendas online.
+      * **Problema resolvido:** bug no sistema de vendas online.
       * Proposta: reunião na quinta-feira às 15h.
   * Instruções:
     * Use uma ferramenta como ChatGPT® ou Flowrite® para gerar os e-mails.
