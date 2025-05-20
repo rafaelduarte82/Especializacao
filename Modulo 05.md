@@ -25,6 +25,9 @@ Objetivo: criar um resumo executivo de um estudo fictício utilizando IA.
 
 
 
+
+
+
 5.2.6 Exercício Prático
 * Objetivo: criar e-mails automatizados para dois contextos profissionais distintos.
 
