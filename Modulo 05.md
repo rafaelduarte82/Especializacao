@@ -110,7 +110,36 @@ A IA ajudou a estruturar os e-mails com clareza, economizando tempo e garantindo
         * Discussões e decisões tomadas.
         * Próximos passos, responsáveis e prazos.
     * Entrega: apresente uma ata estruturada, com todas as informações organizadas em seções objetivas e precisas.
+Ata da Reunião – Planejamento do Evento Corporativo
 
+Data: 15 de março
+Hora: 10h
+Participantes: Maria, Carlos, Pedro e Ana
+
+Pauta e Deliberações:
+
+Local do Evento:
+
+Definido o Hotel Central como local oficial.
+
+Orçamento Inicial:
+
+Estabelecido o valor de R$50.000,00 como orçamento preliminar.
+
+Distribuição de Tarefas:
+
+Carlos: responsável por negociar com fornecedores.
+
+Ana: encarregada de elaborar a agenda do evento.
+
+Pedro: organizará transporte e logística.
+
+Encaminhamentos:
+
+Acompanhamento das tarefas será realizado na próxima reunião.
+
+Encerramento:
+Reunião encerrada às 11h15.
 
 
 
