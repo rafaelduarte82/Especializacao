@@ -134,5 +134,4 @@ Encerramento: Reunião encerrada às 11h15.
     * O formato automatizado foi útil para documentar todos os tópicos discutidos?
     * Que ajustes você faria no prompt ou no uso da ferramenta para melhorar o resultado?
 
-
 A IA contribuiu para transformar os tópicos soltos em uma ata clara, padronizada e pronta para arquivamento. O uso de estruturas comuns de atas (título, data, participantes, pauta e encaminhamentos) foi eficiente. A melhoria poderia envolver a inclusão de campos automáticos como "responsável pela ata" ou a criação de um sistema de versionamento para atas sucessivas, caso o prompt pedisse.
