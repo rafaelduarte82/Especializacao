@@ -64,7 +64,7 @@ Atenciosamente,
 Rafael Duarte
 
 
-Contexto 2: E-mail informal para o colega
+**Contexto 2:** E-mail informal para o colega
 Assunto: Valeu pela ajuda no Projeto
 
 Oi Sergio,
