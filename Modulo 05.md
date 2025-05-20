@@ -36,6 +36,7 @@ A IA foi crucial para sintetizar informações em um formato claro e conciso, pr
 
 
 ---
+
 5.2.6 Exercício Prático
 * Objetivo: criar e-mails automatizados para dois contextos profissionais distintos.
 
