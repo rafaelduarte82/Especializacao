@@ -50,7 +50,7 @@ A IA serviu para sintetizar informações em um formato claro e conciso, preserv
     * Certifique-se de ajustar o tom e a estrutura de cada mensagem ao contexto.
   
 
-  
+
   * Entrega: apresente os dois e-mails gerados e analise se o tom e o conteúdo atendem ao propósito de cada cenário.
 5.2.7 Reflexão
   * Como a IA ajudou a economizar tempo e garantir precisão na comunicação?
@@ -59,31 +59,7 @@ A IA serviu para sintetizar informações em um formato claro e conciso, preserv
 
 
 5.2.6 – E-mails Automatizados
-Contexto 1: E-mail formal para o chefe
-Assunto: Atualização do Projeto – Lançamento de Campanha Publicitária
 
-Prezado [Nome do Chefe],
-
-Gostaria de informá-lo sobre o andamento do projeto Lançamento de Campanha Publicitária, que se encontra atualmente com 80% de execução. Um dos principais resultados alcançados até o momento foi um aumento de 20% no engajamento nas redes sociais, evidenciando o impacto positivo das ações iniciais.
-
-Como próximos passos, estamos focados na finalização dos ajustes de design, com previsão de conclusão até o final da próxima semana.
-
-Permaneço à disposição para quaisquer esclarecimentos.
-
-Atenciosamente,
-Rafael Duarte
-
-Contexto 2: E-mail informal para o colega
-Assunto: Valeu pela ajuda – Bora conversar sobre próximos projetos?
-
-Oi [Nome do Colega],
-
-Valeu demais pela força com aquele bug no sistema de vendas online — resolveu rapidinho! 😅
-
-Aproveitando, queria propor uma reunião na quinta-feira às 15h pra trocarmos umas ideias sobre novos projetos que podem ser bem interessantes pra gente tocar juntos. O que acha?
-
-Abraço,
-Rafael
 
 Reflexão:
 
