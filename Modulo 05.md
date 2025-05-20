@@ -38,7 +38,7 @@ A IA serviu para sintetizar informações em um formato claro e conciso, preserv
     * **Informações:**
       * **Título do projeto:** Lançamento de Campanha Publicitária.
       * **Status:** 80% concluído.
-      * Ponto de destaque: aumento de 20% no engajamento nas redes sociais.
+      * **Ponto de destaque:** aumento de 20% no engajamento nas redes sociais.
       * Próximos passos: finalizar os ajustes no design da campanha até a próxima semana.
   * Contexto 2: escreva um e-mail informal para um colega, agradecendo por ter ajudado a solucionar um problema técnico e sugerindo uma reunião para discutir novos projetos.
     * Informações:
