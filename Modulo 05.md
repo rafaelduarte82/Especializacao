@@ -27,7 +27,7 @@ O mercado global de e-commerce cresceu 25% em 2023, impulsionado pelo aumento do
   *   * O resumo gerado atendeu às expectativas de precisão e objetividade?
   *   * Quais ajustes você faria no prompt ou no uso da ferramenta para melhorar o resultado?
 
-A IA foi crucial para sintetizar informações em um formato claro e conciso, preservando os principais dados e recomendações. O resumo atendeu às expectativas de precisão e objetividade. Um possível ajuste seria refinar o prompt para especificar o público-alvo do resumo (ex: investidores, gestores) para araadaptar ainda mais o tom e a ênfase dos dados apresentados.
+A IA foi crucial para sintetizar informações em um formato claro e conciso, preservando os principais dados e recomendações. O resumo atendeu às expectativas de precisão e objetividade. Um possível ajuste seria refinar o prompt para especificar o público-alvo do resumo (ex: investidores, gestores) para adaptar ainda mais o tom e a ênfase dos dados apresentados.
 
 ---
 
