@@ -110,7 +110,7 @@ A IA ajudou a estruturar os e-mails com clareza, economizando tempo e garantindo
         * Próximos passos, responsáveis e prazos.
     * **Entrega:** apresente uma ata estruturada, com todas as informações organizadas em seções objetivas e precisas.
 
-Ata da Reunião – Planejamento do Evento Corporativo
+Ata da Reunião - Planejamento do Evento Corporativo
 
 Data: 15 de março
 Hora: 10h
