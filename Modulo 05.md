@@ -77,7 +77,6 @@ Rafael
 
 
 
-  * Entrega: apresente os dois e-mails gerados e analise se o tom e o conteúdo atendem ao propósito de cada cenário.
 5.2.7 Reflexão
   * Como a IA ajudou a economizar tempo e garantir precisão na comunicação?
   *   * s e-mails gerados foram adequados aos contextos propostos?
