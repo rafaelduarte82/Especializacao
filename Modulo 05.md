@@ -78,7 +78,6 @@ Abraço,
 Rafael
 
 
-
 5.2.7 Reflexão
   * Como a IA ajudou a economizar tempo e garantir precisão na comunicação?
   *   * s e-mails gerados foram adequados aos contextos propostos?
