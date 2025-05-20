@@ -66,7 +66,7 @@ Rafael Duarte
 Contexto 2: E-mail informal para o colega
 Assunto: Valeu pela ajuda no Projeto
 
-Oi [Nome do Colega],
+Oi Sergio,
 
 Valeu demais pela força com aquele bug no sistema de vendas online — resolveu rapidinho! 😅
 
