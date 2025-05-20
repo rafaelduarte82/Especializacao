@@ -23,7 +23,11 @@ Resumo:
 
 O mercado global de e-commerce cresceu 25% em 2023, impulsionado pelo aumento do uso de dispositivos móveis e melhorias logísticas. Amazon®, Alibaba® e Mercado Livre® lideram esse cenário competitivo, onde os principais desafios incluem custos elevados de transporte e intensa concorrência. Para sustentar o crescimento, recomenda-se o investimento em tecnologias de entrega na última milha e a formação de parcerias estratégicas que aumentem a eficiência operacional e ampliem o alcance ao consumidor.
 
-Reflexão:
+
+* Reflexão
+  * Como a IA ajudou a sintetizar as informações mais importantes?
+  *   * O resumo gerado atendeu às expectativas de precisão e objetividade?
+  *   * Quais ajustes você faria no prompt ou no uso da ferramenta para melhorar o resultado?
 
 A IA foi crucial para sintetizar informações em um formato claro e conciso, preservando os principais dados e recomendações. O resumo atendeu às expectativas de precisão e objetividade. Um possível ajuste seria refinar o prompt para especificar o público-alvo do resumo (ex: investidores, gestores) a fim de adaptar ainda mais o tom e a ênfase dos dados apresentados.
 
