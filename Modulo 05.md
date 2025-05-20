@@ -127,8 +127,7 @@ Pauta e Deliberações:
 
 Encaminhamentos: Acompanhamento das tarefas será realizado na próxima reunião.
 
-Encerramento:
-Reunião encerrada às 11h15.
+Encerramento: Reunião encerrada às 11h15.
 
 
 
