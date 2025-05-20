@@ -23,7 +23,6 @@ Resumo:
 
 O mercado global de e-commerce cresceu 25% em 2023, impulsionado pelo aumento do uso de dispositivos móveis e melhorias logísticas. Amazon®, Alibaba® e Mercado Livre® lideram esse cenário competitivo, onde os principais desafios incluem custos elevados de transporte e intensa concorrência. Para sustentar o crescimento, recomenda-se o investimento em tecnologias de entrega na última milha e a formação de parcerias estratégicas que aumentem a eficiência operacional e ampliem o alcance ao consumidor.
 
-
 * Reflexão
   * Como a IA ajudou a sintetizar as informações mais importantes?
   *   * O resumo gerado atendeu às expectativas de precisão e objetividade?
