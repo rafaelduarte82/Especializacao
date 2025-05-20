@@ -122,7 +122,7 @@ Local do Evento: Definido o Hotel Central como local oficial.
 Orçamento Inicial: Estabelecido o valor de R$50.000,00 como orçamento preliminar.
 
 Distribuição de Tarefas:
-Carlos: responsável por negociar com fornecedores.
+* Carlos: responsável por negociar com fornecedores.
 Ana: encarregada de elaborar a agenda do evento.
 Pedro: organizará transporte e logística.
 
