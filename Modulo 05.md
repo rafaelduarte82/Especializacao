@@ -58,8 +58,6 @@ A IA serviu para sintetizar informações em um formato claro e conciso, preserv
   *   Que melhorias poderiam ser feitas para refinar as mensagens?
 
 
-5.2.6 – E-mails Automatizados
-
 
 Reflexão:
 
