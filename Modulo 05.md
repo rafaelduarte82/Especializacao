@@ -99,7 +99,7 @@ A IA ajudou a estruturar os e-mails com clareza, economizando tempo e garantindo
         * Decisão sobre o local do evento (Hotel Central).
         * Definição do orçamento inicial (R$50.000).
         * Atribuição de tarefas:
-          * Carlos: negociar com fornecedores.
+          * **Carlos:** negociar com fornecedores.
           * Ana: criar a agenda do evento.
           * Pedro: organizar transporte e logística.
     * Instruções:
