@@ -119,7 +119,7 @@ Participantes: Maria, Carlos, Pedro e Ana
 
 Pauta e Deliberações:
 
-Local do Evento:Definido o Hotel Central como local oficial.
+Local do Evento: Definido o Hotel Central como local oficial.
 
 Orçamento Inicial:
 
