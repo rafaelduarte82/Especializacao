@@ -1,4 +1,4 @@
-5.1.7 Exercício Prático
+# 5.1.7 Exercício Prático
 Objetivo: criar um resumo executivo de um estudo fictício utilizando IA.
 * Tarefa:
 
