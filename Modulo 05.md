@@ -128,7 +128,7 @@ Encerramento: Reunião encerrada às 11h15.
 
 
 
-5.3.7 Reflexão
+**5.3.7 Reflexão**
     * A ata gerada atendeu às expectativas de clareza e organização?
     * O formato automatizado foi útil para documentar todos os tópicos discutidos?
     * Que ajustes você faria no prompt ou no uso da ferramenta para melhorar o resultado?
