@@ -125,9 +125,7 @@ Pauta e Deliberações:
     * Ana: encarregada de elaborar a agenda do evento.
     * Pedro: organizará transporte e logística.
 
-Encaminhamentos:
-
-Acompanhamento das tarefas será realizado na próxima reunião.
+Encaminhamentos: Acompanhamento das tarefas será realizado na próxima reunião.
 
 Encerramento:
 Reunião encerrada às 11h15.
