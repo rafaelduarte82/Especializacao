@@ -57,7 +57,6 @@ Assunto: Atualização do Projeto: Lançamento de Campanha Publicitária
 Prezado Silva,
 
 Gostaria de informá-lo sobre o andamento do projeto Lançamento de Campanha Publicitária, que se encontra atualmente com 80% de execução. Um dos principais resultados alcançados até o momento foi um aumento de 20% no engajamento nas redes sociais, evidenciando o impacto positivo das ações iniciais.
-
 Como próximos passos, estamos focados na finalização dos ajustes de design, com previsão de conclusão até o final da próxima semana.
 
 Permaneço à disposição para quaisquer esclarecimentos.
