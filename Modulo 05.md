@@ -22,7 +22,81 @@ Objetivo: criar um resumo executivo de um estudo fictício utilizando IA.
   * Como a IA ajudou a sintetizar as informações mais importantes?
   *   * O resumo gerado atendeu às expectativas de precisão e objetividade?
   *   * Quais ajustes você faria no prompt ou no uso da ferramenta para melhorar o resultado?
+5.1.7 – Resumo Executivo (100 palavras)
+Resumo:
 
+O mercado global de e-commerce cresceu 25% em 2023, impulsionado pelo aumento do uso de dispositivos móveis e melhorias logísticas. Amazon®, Alibaba® e Mercado Livre® lideram esse cenário competitivo, onde os principais desafios incluem custos elevados de transporte e intensa concorrência. Para sustentar o crescimento, recomenda-se o investimento em tecnologias de entrega na última milha e a formação de parcerias estratégicas que aumentem a eficiência operacional e ampliem o alcance ao consumidor.
+
+Reflexão:
+
+A IA foi crucial para sintetizar informações em um formato claro e conciso, preservando os principais dados e recomendações. O resumo atendeu às expectativas de precisão e objetividade. Um possível ajuste seria refinar o prompt para especificar o público-alvo do resumo (ex: investidores, gestores) a fim de adaptar ainda mais o tom e a ênfase dos dados apresentados.
+
+5.2.6 – E-mails Automatizados
+Contexto 1: E-mail formal para o chefe
+Assunto: Atualização do Projeto – Lançamento de Campanha Publicitária
+
+Prezado [Nome do Chefe],
+
+Gostaria de informá-lo sobre o andamento do projeto Lançamento de Campanha Publicitária, que se encontra atualmente com 80% de execução. Um dos principais resultados alcançados até o momento foi um aumento de 20% no engajamento nas redes sociais, evidenciando o impacto positivo das ações iniciais.
+
+Como próximos passos, estamos focados na finalização dos ajustes de design, com previsão de conclusão até o final da próxima semana.
+
+Permaneço à disposição para quaisquer esclarecimentos.
+
+Atenciosamente,
+Rafael Duarte
+
+Contexto 2: E-mail informal para o colega
+Assunto: Valeu pela ajuda – Bora conversar sobre próximos projetos?
+
+Oi [Nome do Colega],
+
+Valeu demais pela força com aquele bug no sistema de vendas online — resolveu rapidinho! 😅
+
+Aproveitando, queria propor uma reunião na quinta-feira às 15h pra trocarmos umas ideias sobre novos projetos que podem ser bem interessantes pra gente tocar juntos. O que acha?
+
+Abraço,
+Rafael
+
+Reflexão:
+
+A IA ajudou a estruturar os e-mails com clareza, economizando tempo e garantindo um tom adequado a cada destinatário. O e-mail formal está alinhado às expectativas corporativas, enquanto o informal preserva a leveza e o tom de parceria. Uma melhoria possível seria refinar o prompt para incluir o estilo comunicacional específico da empresa (ex: mais conservador ou mais descontraído) ou adicionar um parágrafo de conclusão com uma chamada para ação mais clara no e-mail informal.
+
+5.3.6 – Ata de Reunião Automatizada
+Ata da Reunião – Planejamento do Evento Corporativo
+
+Data: 15 de março
+Hora: 10h
+Participantes: Maria, Carlos, Pedro e Ana
+
+Pauta e Deliberações:
+
+Local do Evento:
+
+Definido o Hotel Central como local oficial.
+
+Orçamento Inicial:
+
+Estabelecido o valor de R$50.000,00 como orçamento preliminar.
+
+Distribuição de Tarefas:
+
+Carlos: responsável por negociar com fornecedores.
+
+Ana: encarregada de elaborar a agenda do evento.
+
+Pedro: organizará transporte e logística.
+
+Encaminhamentos:
+
+Acompanhamento das tarefas será realizado na próxima reunião.
+
+Encerramento:
+Reunião encerrada às 11h15.
+
+Reflexão:
+
+A IA contribuiu para transformar os tópicos soltos em uma ata clara, padronizada e pronta para arquivamento. O uso de estruturas comuns de atas (título, data, participantes, pauta e encaminhamentos) foi eficiente. A melhoria poderia envolver a inclusão de campos automáticos como "responsável pela ata" ou a criação de um sistema de versionamento para atas sucessivas, caso o prompt pedisse.
 
 
 
