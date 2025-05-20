@@ -121,9 +121,7 @@ Pauta e Deliberações:
 
 Local do Evento: Definido o Hotel Central como local oficial.
 
-Orçamento Inicial:
-
-Estabelecido o valor de R$50.000,00 como orçamento preliminar.
+Orçamento Inicial: Estabelecido o valor de R$50.000,00 como orçamento preliminar.
 
 Distribuição de Tarefas:
 
