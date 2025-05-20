@@ -100,7 +100,7 @@ A IA ajudou a estruturar os e-mails com clareza, economizando tempo e garantindo
         * Definição do orçamento inicial (R$50.000).
         * Atribuição de tarefas:
           * **Carlos:** negociar com fornecedores.
-          * Ana: criar a agenda do evento.
+          * **Ana:** criar a agenda do evento.
           * Pedro: organizar transporte e logística.
     * Instruções:
       * Use uma ferramenta como ChatGPT® ou Fireflies.AI® para gerar a ata da reunião.
