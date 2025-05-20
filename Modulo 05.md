@@ -3,7 +3,7 @@
 * **Tarefa:**
 
 * **Documento original:**
-  * Título: Crescimento do Mercado de E-commerce.
+  * **Título:** Crescimento do Mercado de E-commerce.
   * Principais dados:
     * Crescimento de 25% no mercado global em 2023.
     * Principais players18: Amazon®, Alibaba®, Mercado Livre®.
