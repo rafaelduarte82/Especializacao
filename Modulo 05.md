@@ -50,6 +50,7 @@ A IA serviu para sintetizar informações em um formato claro e conciso, preserv
     * Certifique-se de ajustar o tom e a estrutura de cada mensagem ao contexto.
 
   * Entrega: apresente os dois e-mails gerados e analise se o tom e o conteúdo atendem ao propósito de cada cenário.
+  * 
 Contexto 1: E-mail formal para o chefe
 Assunto: Atualização do Projeto: Lançamento de Campanha Publicitária
 
