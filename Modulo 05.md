@@ -50,7 +50,7 @@ A IA serviu para sintetizar informações em um formato claro e conciso, preserv
     * Certifique-se de ajustar o tom e a estrutura de cada mensagem ao contexto.
 
 Contexto 1: E-mail formal para o chefe
-Assunto: Atualização do Projeto Lançamento de Campanha Publicitária
+Assunto: Atualização do Projeto: Lançamento de Campanha Publicitária
 
 Prezado [Nome do Chefe],
 
