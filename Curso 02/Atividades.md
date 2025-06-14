@@ -8,7 +8,6 @@ Realize as seguintes atividades práticas:
 - Crie uma imagem com texto incorporado visualmente e avalie qual ferramenta oferece melhor controle tipográfico e integração do texto ao layout.
 - Proponha uma variação estilística (ex: aquarela, cyberpunk, arte vetorial) e analise como cada IA interpreta e representa o estilo solicitado.
 - Explore as configurações de prompts fornecidas pelas ferramentas MidJourney e Ideogram, para gerar variações na geração de novas imagens.
-
 Com base nas atividades realizadas, apresente as imagens que considerar mais relevantes juntamente com um texto dissertativo comparando as três ferramentas, destacando suas particularidades, pontos fortes, limitações e possíveis aplicações práticas em diferentes contextos (ex: marketing, design gráfico, redes sociais, educação ou arte conceitual).
 
 
