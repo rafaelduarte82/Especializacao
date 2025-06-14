@@ -15,7 +15,6 @@ Com base nas atividades realizadas, apresente as imagens que considerar mais rel
 # Modulo 4
 ## Fórum
 Escolha um dos temas abaixo ou proponha o seu próprio tema de interesse. Em seguida, elabore prompts objetivos e estratégicos (utilizando técnicas de engenharia de prompt), gere imagens com a ferramenta de sua preferência (ou mais de uma ferramenta) e poste o resultado acompanhado do seu prompt, das configurações utilizadas (caso use MidJourney ou Ideogram) e da justificativa da escolha.
-
 Seu objetivo será gerar arte para criar todos os seguintes itens: identidade visual dessa empresa (logotipo e marca d'água), imagens de marketing digital e arte para comunicação e publicidade.
 Utilize sua criatividade para criar artes para alguma dessas empresas.
 Sugestões de temas:
