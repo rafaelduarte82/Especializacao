@@ -1,6 +1,5 @@
 # Modulo 2
 ## Forum
-
 Utilize as ferramentas de geração de imagens DALL-E 3, MidJourney e Ideogram para explorar suas diferentes capacidades criativas, técnicas e estilísticas.
 Realize as seguintes atividades práticas:
 - Gere uma imagem realista a partir de um mesmo prompt descritivo nas três plataformas e compare os resultados quanto à fidelidade visual, detalhamento e estilo.
